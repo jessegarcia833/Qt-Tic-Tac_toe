@@ -6,4 +6,4 @@ Within Qt, I was able to modify the CSS to give the game a chalkboard look and f
 The Game is either 2 players or 1 player against an A.I.
 The game implements a basic A.I. that will win or block you depending whats on the board.
 
-![Screenshot](Tic_Tac_Toe.png)
+![Screenshot](Tic_Tac_Toe.jpeg)
